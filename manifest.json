@@ -1,0 +1,9 @@
+{
+	"manifest_version": 2,
+	"name": "MotivationDashboard",
+	"version": "1.0.0",
+	"description": "Browser homepage extension that feeds me motivation to keep going",
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	}
+}
