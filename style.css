@@ -1,13 +1,29 @@
 body {
-  background-color: rgb(217, 85, 80);
+	background-image: url(
+	'https://images.unsplash.com/photo-1643712662909-29fe8f02b613?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'
+	);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
 }
 h1 {
   text-align: center;
   color: white;
   font-family: Trebuchet MS;
+  padding: 10px
+}
+h5 {
+  text-align: center;
+  color: white;
+  font-family: Trebuchet MS;
+  padding-top: 46px;
 }
 img {
 	margin: 10px;
+	vertical-align: middle;
+}
+img:hover {
+	transform: scale(1.05);
 }
 div {
 	text-align: center;
