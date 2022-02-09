@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "MotivationDashboard",
+	"name": "ConvictionDashboard",
 	"version": "1.0.0",
-	"description": "Browser homepage extension that feeds me motivation to keep going",
+	"description": "Browser homepage extension that reminds me to keep shipping",
 	"chrome_url_overrides": {
 		"newtab": "index.html"
 	}

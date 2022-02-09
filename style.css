@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(217, 85, 80);
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-family: Trebuchet MS;
+}
+img {
+	margin: 10px;
+}
+div {
+	text-align: center;
+}
